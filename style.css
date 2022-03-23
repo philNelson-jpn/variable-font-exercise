@@ -3,6 +3,9 @@
 	font-family: 'Raleway', sans-serif;
 	/* prevent extra 'filler' in the font */
 	-webkit-font-smoothing: antialiased;
+}
+
+html {
 	--color-gray-100: hsl(270deg 25% 96%);
 	--color-gray-300: hsl(270deg 17% 84%);
 	--color-gray-500: hsl(270deg 17% 72%);
